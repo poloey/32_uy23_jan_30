@@ -81,7 +81,7 @@ explode(',', $string); // ['apple', 'orange', 'banana']
 It will implode array into string          
 
 ~~~php
-$array = ['apple', 'orange', 'banana']
+$array = ['apple', 'orange', 'banana'];
 implode(',', $array); //  'apple, orange, banana'
 ~~~
 

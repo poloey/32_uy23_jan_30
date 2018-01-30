@@ -8,3 +8,7 @@ $array = ['apple', 'orange', 'banana'];
 // echo implode(',', $array); //  'apple, orange, banana'
 
 echo in_array('apple', $array);
+
+foreach ($array as $fruit) {
+  echo $fruit;
+}
