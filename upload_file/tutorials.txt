@@ -1,0 +1,10 @@
+//array
+$_POST
+$_GET
+$_REQUEST
+$_SERVER
+$_SESSION   (session_start())
+$_FILES  
+$_ENV
+$_COOKIE
+$GLOBALS
